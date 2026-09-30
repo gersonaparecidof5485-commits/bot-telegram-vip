@@ -9,11 +9,11 @@ import database as db
 
 load_dotenv()
 
-TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
-RPAY_API_KEY = os.getenv("RPAY_API_KEY")
-PUBLIC_URL = os.getenv("PUBLIC_URL")
-CHAT_VIP_PADRAO = os.getenv("CHAT_ID_VIP_PADRAO")
-CHAT_SUPER_VIP = os.getenv("CHAT_ID_SUPER_VIP")
+TOKEN = os.getenv(8869290353:AAHlGsgSui4Eib6geib2BBITOjMGfszSRMU)
+RPAY_API_KEY = os.getenv(sk_live_bbd5a355cd37c0efd9eaacee6b7637c491a30bdc4a6d921f)
+PUBLIC_URL = os.getenv(http://localhost:3000)
+CHAT_VIP_PADRAO = os.getenv(-1004389165942)
+CHAT_SUPER_VIP = os.getenv(-1003444530644)
 
 db.init_db()
 app = Flask(__name__)
